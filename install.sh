@@ -7,4 +7,4 @@ cd ccminer
 chmod +x build.sh
 chmod +x configure.sh
 chmod +x autogen.sh
-CXX=clang++ CC=clang build.sh
+CXX=clang++ CC=clang ./build.sh
